@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Herren-Hsing
-- 🌱 I’m currently a sophomore majoring in Information Security and Law in  College of Cyberspace Security of Nankai University,struggling in tremendous courses and assignments.
+- 🌱 I’m currently a sophomore majoring in **Information Security and Law** in  College of Cyberspace Security of Nankai University,struggling in tremendous courses and assignments.
 - 📫 To reach me, you can send emails to my Nankai email account. 
 - Wish we all have a bright future.
 
