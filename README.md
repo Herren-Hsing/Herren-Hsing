@@ -8,4 +8,4 @@ Herren-Hsing/Herren-Hsing is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herren-Hsing&layout=compact)](https://github.com/Herren-Hsing/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herren-Hsing&layout=compact&theme==gotham)](https://github.com/Herren-Hsing/github-readme-stats)
